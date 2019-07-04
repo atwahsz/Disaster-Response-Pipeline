@@ -28,6 +28,7 @@ The app built to have an ML model to categorize every message received
     `python run.py`
 
 3. Go to http://0.0.0.0:3001/
+   Or Go to http://localhost:3001/
 
 ## Screenshots
 
